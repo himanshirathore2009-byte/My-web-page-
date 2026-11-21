@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(236, 241, 208);
+    color: black;
+    font-family: Arial;
+    margin: 15px;
+    font-style: italic;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+}
+
+.links {
+    text-align: center;
+    font-size: 18px;
+}
+
+a {
+    color: rgba(0, 135, 245, 0.959);
+}
+
+.picture {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 28px;
+}
+
+.intro {
+    color: black;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+h3, h4, h5, h6 {
+    color: black;
+    font-size: 25px;
+}
+
+p {
+    color: black;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+ul {
+    color:black;
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+ol {
+    color: black;
+    font-size: 16px;
+    line-height: 1.8;
+}
